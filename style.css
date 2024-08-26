@@ -1,0 +1,228 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+.ss {
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+}
+
+.bobo {
+  display: flex;
+  gap: 5px;
+}
+.ota {
+  background-color: darkmagenta;
+  height: 200px;
+  width: 200px;
+  margin: 50px;
+  border-radius: 10px;
+  border: 3px solid darkmagenta;
+}
+.bola {
+  background-color: coral;
+  height: 30px;
+  width: 30px;
+  margin: 10px;
+  display: inline-block;
+  border-radius: 10px;
+  border: 3px solid darkmagenta;
+}
+.div1 {
+  display: flex;
+  gap: 5px;
+}
+.div2 {
+  background-color: darkmagenta;
+  height: 200px;
+  width: 200px;
+  margin: 50px;
+  border-radius: 10px;
+  border: 3px solid darkmagenta;
+}
+.bola1 {
+  background-color: coral;
+  height: 30px;
+  width: 30px;
+  margin: 10px;
+  border-radius: 10px;
+  border: 3px solid darkmagenta;
+}
+.ota1 {
+  display: flex;
+  gap: 5px;
+}
+.ota2 {
+  background-color: darkmagenta;
+  height: 200px;
+  width: 200px;
+  margin: 50px;
+  border-radius: 10px;
+  border: 3px solid darkmagenta;
+}
+.bola2 {
+  background-color: coral;
+  height: 30px;
+  width: 30px;
+  margin: 5px;
+  border-radius: 10px;
+  border: 3px solid darkmagenta;
+  flex-wrap: wrap;
+  display: inline-block;
+}
+.ona {
+  display: flex;
+  gap: 5px;
+}
+.ona1 {
+  display: flex;
+  gap: 5px;
+  justify-content: space-between;
+  background-color: darkmagenta;
+  height: 200px;
+  width: 200px;
+  margin: 50px;
+  border-radius: 10px;
+  border: 3px solid darkmagenta;
+}
+.bola3 {
+  background-color: coral;
+  height: 30px;
+  width: 30px;
+  margin: 10px;
+  border-radius: 10px;
+  border: 3px solid darkmagenta;
+  justify-content: center;
+}
+.bobo {
+}
+.ota {
+  display: flex;
+  justify-content: left;
+  background-color: darkmagenta;
+  height: 200px;
+  width: 200px;
+  margin: 50px;
+  border-radius: 10px;
+  border: 3px solid darkmagenta;
+}
+.bola {
+  background-color: coral;
+  height: 30px;
+  width: 30px;
+  margin: 10px;
+  border-radius: 10px;
+  border: 3px solid darkmagenta;
+}
+.insta {
+}
+.insta1 {
+  display: flex;
+  justify-content: right;
+  background-color: darkmagenta;
+  height: 200px;
+  width: 200px;
+  margin: 50px;
+  border-radius: 10px;
+  border: 3px solid darkmagenta;
+}
+.bola4 {
+  background-color: coral;
+  height: 30px;
+  width: 30px;
+  margin: 10px;
+  border-radius: 10px;
+  border: 3px solid darkmagenta;
+}
+.fece {
+}
+.fece1 {
+  display: flex;
+  justify-content: center;
+  background-color: darkmagenta;
+  height: 200px;
+  width: 200px;
+  margin: 50px;
+  border-radius: 10px;
+  border: 3px solid darkmagenta;
+}
+.bola5 {
+  background-color: coral;
+  height: 30px;
+  width: 30px;
+  margin: 10px;
+  border-radius: 10px;
+  border: 3px solid darkmagenta;
+}
+.tele {
+}
+.tele1 {
+  display: flex;
+  justify-content: space-between;
+  background-color: darkmagenta;
+  height: 200px;
+  width: 200px;
+  margin: 50px;
+  border-radius: 10px;
+  border: 3px solid darkmagenta;
+}
+.bola6 {
+  background-color: coral;
+  height: 30px;
+  width: 30px;
+  margin: 10px;
+  border-radius: 10px;
+  border: 3px solid darkmagenta;
+}
+.dd {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
+.aa {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
+.snap {
+}
+.snap2 {
+  display: flex;
+  align-items: flex-end;
+  background-color: darkmagenta;
+  height: 200px;
+  width: 200px;
+  margin: 50px;
+  border-radius: 10px;
+  border: 3px solid darkmagenta;
+}
+.snap1 {
+  background-color: coral;
+  height: 30px;
+  width: 30px;
+  margin: 10px;
+  border-radius: 10px;
+  border: 3px solid darkmagenta;
+}
+.snap3 {
+}
+.snap4 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: darkmagenta;
+  height: 200px;
+  width: 200px;
+  margin: 50px;
+  border-radius: 10px;
+  border: 3px solid darkmagenta;
+}
+.snap5 {
+  background-color: coral;
+  height: 30px;
+  width: 30px;
+  margin: 10px;
+  border-radius: 10px;
+  border: 3px solid darkmagenta;
+}
